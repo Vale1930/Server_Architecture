@@ -1,4 +1,4 @@
--- Active: 1717481052507@@127.0.0.1@5432@dw_dev
+-- Active: 1717813739035@@127.0.0.1@5432@dw_dev
 CREATE DATABASE dw_dev;
 
 CREATE SCHEMA bronze;
